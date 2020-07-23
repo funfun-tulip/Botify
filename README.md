@@ -1,3 +1,5 @@
+<h1>Made with ❤️ by a 🍌 developer 👻</h1>
+
 Currently only telegram supported.
 
 Usage: $python bofily.py -help
