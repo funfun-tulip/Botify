@@ -1,5 +1,6 @@
 # Made with :heart: by a :banana: developer :ghost:
 
+This program makes a telegram chatbot from any webpage with any html-table. As an example you can see how it made a chatbot from a wikipedia's table of HOMM3 creatures stats. User can query a chatbot with natural language, ask questions with reasoning, e.g. 'which unit does have maximum defence?'.
 Currently only telegram supported.
 
 Usage: $python bofily.py -help
